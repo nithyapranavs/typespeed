@@ -1,0 +1,3 @@
+[console_scripts]
+typespeed = main.code:main
+

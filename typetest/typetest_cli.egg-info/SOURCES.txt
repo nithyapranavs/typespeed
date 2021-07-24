@@ -1,0 +1,10 @@
+setup.py
+main/__init__.py
+main/code.py
+main/pcode.py
+typetest_cli.egg-info/PKG-INFO
+typetest_cli.egg-info/SOURCES.txt
+typetest_cli.egg-info/dependency_links.txt
+typetest_cli.egg-info/entry_points.txt
+typetest_cli.egg-info/requires.txt
+typetest_cli.egg-info/top_level.txt
